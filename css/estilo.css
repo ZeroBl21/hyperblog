@@ -29,5 +29,12 @@ body{
 }
 
 main{
-    margin-top: 6em;
+    margin: 6em auto;
+    width: 70%;
+    padding: 1em;
+    border: 1px solid blue;
+}
+
+main h1{
+    font-size: 20px;
 }
