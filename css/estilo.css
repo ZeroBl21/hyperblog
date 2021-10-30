@@ -1,7 +1,7 @@
 body{
     color: #fff;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
     background: linear-gradient(90deg, #000 18%, #333 67%, #555 100%);
 }
 
