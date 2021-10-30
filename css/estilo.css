@@ -33,7 +33,7 @@ main{
     margin: 6em auto;
     width: 70%;
     padding: 1em;
-    border: 1px solid blue;
+    border: 1px solid rgb(30, 255, 0);
 }
 
 main h1{
