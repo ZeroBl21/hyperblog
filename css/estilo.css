@@ -10,7 +10,7 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background: linear-gradient(180deg, rgba(2,0,36,1) 18%, rgba(9,9,121,1) 67%, rgba(0,212,255,1) 100%);
+    background: linear-gradient(180deg, rgb(0, 36, 31) 18%, rgb(9, 121, 87) 67%, rgb(30, 255, 0) 100%);
     position: fixed;
     top: 0;
     width: 100vw;
@@ -33,7 +33,7 @@ main{
     margin: 6em auto;
     width: 70%;
     padding: 1em;
-    border: 1px solid blue;
+    border: 1px solid rgb(30, 255, 0);
 }
 
 main h1{
