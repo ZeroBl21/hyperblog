@@ -1,0 +1,33 @@
+body{
+    color: #fff;
+    text-align: center;
+    font-family: "sans-serif";
+    background: linear-gradient(90deg, #000 18%, #333 67%, #555 100%);
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 18%, rgba(9,9,121,1) 67%, rgba(0,212,255,1) 100%);
+    position: fixed;
+    top: 0;
+    width: 100vw;
+}
+  
+.navbar li {
+    float: left;
+}
+  
+.navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+main{
+    margin-top: 6em;
+}
